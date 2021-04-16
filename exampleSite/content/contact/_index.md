@@ -1,6 +1,5 @@
 ---
 title: Email me!
-description: ''
+description: rumple@4skin.monster
 
 ---
-at 4skin.monster
