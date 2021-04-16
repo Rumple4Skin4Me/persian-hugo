@@ -8,19 +8,19 @@ title = "4Skin4Life"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Inquiries"
+name = "Contact"
 url = "Rumple@4skin.monster"
 weight = 5
 [[menu.main]]
-name = "Privacy Policy"
+name = "A Conversation About Circumcision"
 url = "privacy-policy"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Category"
 url = "categories/nature/"
-weight = 3
+weight = 4
 [[menu.main]]
-name = "About"
+name = "Why You Like Circumcision and Why You Shouldn't"
 url = "about"
 weight = 2
 [[menu.main]]
