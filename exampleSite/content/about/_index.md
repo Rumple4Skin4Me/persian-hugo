@@ -1,6 +1,6 @@
 ---
 title: Why You Like Circumcision and Why You Shouldn't
-image: images/author.jpg
+image: images/circumstraint.jpg
 description: Foreskin Function and Circumcision Traditions
 
 ---
