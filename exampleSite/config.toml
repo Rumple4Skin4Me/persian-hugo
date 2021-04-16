@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
-theme = "persian"
+theme = "4Skin4Life"
 title = "4Skin4Life"
 [markup.goldmark.renderer]
 unsafe = true
@@ -24,7 +24,7 @@ name = "Inquiries"
 url = "Rumple@4skin.monster"
 weight = 4
 [[menu.main]]
-name = "Privacy Policy"
+name = "A Conversation about Circumcision"
 url = "privacy-policy"
 weight = 5
 [outputs]
