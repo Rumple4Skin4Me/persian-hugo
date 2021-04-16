@@ -20,7 +20,7 @@ name = "Category"
 url = "categories/nature/"
 weight = 3
 [[menu.main]]
-name = "Contact"
+name = "Inquiries"
 url = "Rumple@4skin.monster"
 weight = 4
 [[menu.main]]
