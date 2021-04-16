@@ -21,7 +21,7 @@ url = "categories/nature/"
 weight = 3
 [[menu.main]]
 name = "Inquiries"
-url = "Rumple@4skin.monster"
+url = "Contact"
 weight = 4
 [[menu.main]]
 name = "A Conversation about Circumcision"
